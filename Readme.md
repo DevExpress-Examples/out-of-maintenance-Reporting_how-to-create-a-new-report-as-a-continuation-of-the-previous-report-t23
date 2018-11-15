@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainForm.cs](./CS/MainForm.cs) (VB: [MainForm.vb](./VB/MainForm.vb))**
+* [Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))
+* [XtraReport1.cs](./CS/Report/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/Report/XtraReport1.vb))
+* [XtraReportMain.cs](./CS/Report/XtraReportMain.cs) (VB: [XtraReportMain.vb](./VB/Report/XtraReportMain.vb))
+* [SecondReportPreviewForm.cs](./CS/SecondReportPreviewForm.cs) (VB: [SecondReportPreviewForm.vb](./VB/SecondReportPreviewForm.vb))
+<!-- default file list end -->
 # How to create a new report as a continuation of the previous report
 
 
